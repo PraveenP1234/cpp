@@ -15,14 +15,14 @@ int main()
         {
              cout<<" ";
         }
-        cout<<"*";
+        cout<<"+";
         for(k=0;k<i;k++)
         {
              cout<<" ";
-             cout<<"*";
+             cout<<"+";
         }
         cout<<"\n";
-       
+    
 
     }
 }
